@@ -1,2 +1,2 @@
-console.log("server will run here");
+console.log("server is running");
 console.log(new Date());
